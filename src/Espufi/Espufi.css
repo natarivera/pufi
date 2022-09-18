@@ -1,0 +1,16 @@
+
+.espufi{
+    display: grid;
+    grid-template-columns: 100%;
+    justify-items: center;
+}
+.galery{
+    width: 70%;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 5px;
+}
+
+.galery img{
+    width: 100%;
+}

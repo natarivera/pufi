@@ -1,0 +1,21 @@
+.sea {
+    position: relative;
+    margin-top: -300px;
+    z-index: -5;
+    text-align: center;
+}
+.sea img {
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+}
+
+.sea h1{
+    position: absolute;    
+    top: 300px;
+    margin-left: 10%;
+    color:white;
+    font-size: 90px;
+    width: 80%;
+    text-align: center;
+}

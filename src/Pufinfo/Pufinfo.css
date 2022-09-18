@@ -1,0 +1,16 @@
+.Pufinfo{
+    display: grid;
+    grid-template-columns: 100%;
+    justify-items: center;
+}
+
+.imginfo{
+    width:30%;
+
+}
+
+.divider{
+    width: 10%;
+    height: 1px;
+    border-top: 1px solid #000;
+}

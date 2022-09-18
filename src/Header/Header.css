@@ -1,0 +1,56 @@
+.Header {
+    grid-area: header;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    margin:20px;
+    z-index: 20;
+}
+.pufi{
+    font-family: 'Inter', sans-serif;
+    font-size: 100px;
+    color: white;
+}
+.images {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;    
+    justify-items: center;
+}
+
+.imageCnt {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.imageCnt::after {
+    content: '';
+    height: 70%; 
+    width: 1px;
+    position: absolute;
+    right: -30px;
+    top: 0;   
+    background-color: #FFF; 
+}
+
+.imageCnt img{
+    width: 50px;    
+}
+
+.register{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: white;
+    justify-items: center;
+}
+
+.register  div::after {
+    content: 'lalala';
+    height: 70%; 
+    width: 1px;
+    position: absolute;
+    right: -30px;
+    top: 0;   
+    background-color: #FFF; 
+}
