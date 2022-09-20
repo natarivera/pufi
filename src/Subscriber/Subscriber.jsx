@@ -7,10 +7,12 @@ export default function Subscriber(){
 
     return(
         <div>
-            <h2>NEWSLETTER</h2>
-            <h1>SUSCRIBITE</h1>
-            <p>Y enterate de todas las novedades</p>
-            <input type="text" name="" id="" placeholder="Ingresa tu email" className="emailinput"/>
+            <br />
+            <br />
+            <br />
+            <h2 className="news">NEWSLETTER</h2>
+            <h1 className="suscriptor">SUSCRIBITE</h1>
+            <p className="par">Y enterate de todas las novedades</p>            
         </div>
     );
 }

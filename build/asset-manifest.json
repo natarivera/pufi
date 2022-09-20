@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pufi/build/static/css/main.01de9b1a.css",
-    "main.js": "/pufi/build/static/js/main.4ea18b52.js",
+    "main.css": "/pufi/build/static/css/main.b8539bb9.css",
+    "main.js": "/pufi/build/static/js/main.0c80d791.js",
     "static/js/787.9ab34a7d.chunk.js": "/pufi/build/static/js/787.9ab34a7d.chunk.js",
     "static/media/galery2.png": "/pufi/build/static/media/galery2.15a2f9502574491f3204.png",
     "static/media/galery5.png": "/pufi/build/static/media/galery5.2422906aa562c957020a.png",
@@ -16,12 +16,12 @@
     "static/media/puff.png": "/pufi/build/static/media/puff.afe8cbdd54aaca538007.png",
     "static/media/bolsasecologicas.png": "/pufi/build/static/media/bolsasecologicas.e821e56bda10fd325f28.png",
     "index.html": "/pufi/build/index.html",
-    "main.01de9b1a.css.map": "/pufi/build/static/css/main.01de9b1a.css.map",
-    "main.4ea18b52.js.map": "/pufi/build/static/js/main.4ea18b52.js.map",
+    "main.b8539bb9.css.map": "/pufi/build/static/css/main.b8539bb9.css.map",
+    "main.0c80d791.js.map": "/pufi/build/static/js/main.0c80d791.js.map",
     "787.9ab34a7d.chunk.js.map": "/pufi/build/static/js/787.9ab34a7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01de9b1a.css",
-    "static/js/main.4ea18b52.js"
+    "static/css/main.b8539bb9.css",
+    "static/js/main.0c80d791.js"
   ]
 }

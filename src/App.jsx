@@ -10,13 +10,15 @@ import umbrellaicon from './Pufinfo/umbrellaicon.png';
 import puff from './Pufinfo/puff.png';
 import bolsasecologicas from './Pufinfo/bolsasecologicas.png';
 import infonap from './Pufinfo/infonap.png';
-import Espufi from './Espufi/Espufi'
+import Espufi from './Espufi/Espufi';
+import  Formpufi from './Subscriber/Formpufi';
 
 
 
 function App() {
   return (
     <div className='App'>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
      <Header/>   
      <Slider/> 
      <div className='pufimg'>
@@ -31,15 +33,13 @@ function App() {
      </div>  
         <Espufi />
         <Subscriber/>
+        <Formpufi/>
+        
+        <Footer/>
     </div>
+        
 
   );
-  /*
-  
-     
-     
-     <Footer/>
-  */
 }
 
 export default App;

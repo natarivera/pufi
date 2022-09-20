@@ -1,6 +1,47 @@
+
+
+.inputCtn{
+  display:flex;
+  flex-direction:row;  
+  border:1px solid grey;
+  padding:2px;
+  width: 950px;
+  margin: 120px auto;
+}
+
 .emailinput{
     padding: 20px;
     height: 40px;
-    width: 1000px;
     font-size: 30px;
+    flex-grow:2;  
+    border:none;
+}
+
+.emailinput:focus {    
+    outline: none;
+  }
+
+.arrow{    
+  border: 0px;
+  background: none;
+    
+    
+    /*width: 50px;*/
+
+    font-size: 60px !important;
+}
+.news{
+  color:rgb(205, 202, 202);
+  margin: 10px;
+}
+
+.suscriptor{
+  font-size: 70px;
+  font-weight: 100;
+  margin:5px;
+}
+
+.par{
+  margin:5px;
+
 }

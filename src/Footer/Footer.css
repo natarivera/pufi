@@ -1,0 +1,19 @@
+.footer{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+
+.info {
+    position: relative;
+}
+
+.info::after {
+    content: '';
+    height: 90%; 
+    width: 1px;
+    position: absolute;
+    right: -20px;
+    top: 0;   
+    background-color: rgb(220, 220, 220); 
+}
